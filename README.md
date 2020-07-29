@@ -1,4 +1,4 @@
-# M-todosBio
+# Métodos
 
 ### Reproduction of the modeling done in the following paper:
 Eberhard O. Voit,
