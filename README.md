@@ -1,6 +1,6 @@
 # M-todosBio
 
-# Reproduction of the modeling done in the following paper:
+### Reproduction of the modeling done in the following paper:
 Eberhard O. Voit,
 Mesoscopic modeling as a starting point for computational analyses of cystic fibrosis as a systemic disease,
 Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics,
